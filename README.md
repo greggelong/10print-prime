@@ -14,4 +14,10 @@ The prime checking function is not practical but I am amazed at how fast the bro
 [An even more impractical algorithm for finding primes in Python](https://github.com/greggelong/factors) throwing all factors of a number into an array. Checking the array length. If len(array) is 2 it's prime!!
 
 ----------
-![Basic10PrintPrime.png](Basic10PrintPrim.png)
+![Basic10PrintPrime.png](Basic10PrintPrime.png)
+
+I have also added to the this repository a version done in Commodore 64 basic.  
+There is a human readable text file of the BASIC code and a .d64 disk you can load with vice.
+just look at the code from the link at the top of the page!
+
+[Greg's Website](https://greggelong.github.io/)
