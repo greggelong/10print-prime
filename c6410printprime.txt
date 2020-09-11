@@ -1,0 +1,15 @@
+
+1 rem could not use step
+2 rem could not use sqr
+3 rem to find prime or not
+10 print "10 print primes"
+20 print chr$(206);chr$(205);:rem 1,2
+30 print chr$(205);chr$(206);:rem 3,4
+60 for i = 5 to 301 :rem not step 2
+70 for j = 3 to i/2 :rem not step 2
+80 if i/j = int(i/j) then printchr$(206);:goto110:rem is a factor
+90 next j
+100 printchr$(205); :rem is prime
+110 next i
+ready.
+
