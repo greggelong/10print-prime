@@ -3,7 +3,9 @@
 
 ![10printPrime.png](10printPrime.png)
 
-[see it live here](https://editor.p5js.org/greggelong/present/rI2_FI6UY)
+[see it live here p5 editor](https://editor.p5js.org/greggelong/present/rI2_FI6UY)
+[see it live gitHub](https://greggelong.github.io/10print-prime/10printPrimeDom/)
+
 
 A little fun with #10print, here visualizing prime numbers with "\\", composite numbers with "/". Using #P5js. Using HTML textArea like a retro terminal. The script uses frameCount to iterate over the natural numbers (positive integers starting with one). then tests with a textbook prime checking function which returns true or false.
 
